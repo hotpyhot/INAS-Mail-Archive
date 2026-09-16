@@ -27,7 +27,8 @@ Place public screenshots under `docs/images/` before a GitHub release and refere
 
 ## Supported platform
 
-Windows 10/11. Development is intended primarily for VS Code. Python 3.11 or 3.12 is recommended for source builds.
+Windows 10/11. Development is intended primarily for VS Code. PPython 3.11 or later is recommended for source builds.
+Community Edition Ver.1.0.0 has also been tested with Python 3.13 on Windows.
 
 ## Installation for source users
 
