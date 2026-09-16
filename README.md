@@ -5,7 +5,8 @@
 
 INAS Mail Archive Community Edition is a Windows desktop application for importing `.eml` mail files, reviewing mail content, creating an archive PDF, and saving selected attachments into organized folders. It can monitor an import folder so EML files created by Outlook/Power Automate workflows can be processed as they arrive.
 
-Community Edition Ver.1.0.0 is a separate public line from the internal `INAS Mail Archive Ver.1.7.x` line. Changes are not automatically synchronized between the two.
+Community Edition is maintained as an independent public release line.
+It is managed separately from private or organization-specific editions.
 
 ## Main features
 
