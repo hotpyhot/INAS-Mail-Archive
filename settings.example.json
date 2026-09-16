@@ -1,0 +1,33 @@
+{
+  "import_folder": "C:\\\\Example\\\\MailImport",
+  "watch_enabled": true,
+  "post_action": "move_to_output",
+  "open_after_save": true,
+  "auto_start": false,
+  "resident_enabled": true,
+  "ignore_inline_images": true,
+  "pdf_name_template": "メール_{sender_label}{sender_honorific}_{datetime}.pdf",
+  "folder_name_template": "{date}_追加資料_メール{sender_label}{sender_honorific}",
+  "language": "ja",
+  "pdf_language": "same",
+  "default_output_folder": "C:\\\\Example\\\\MailArchive",
+  "excluded_addresses": [
+    "example@example.com"
+  ],
+  "excluded_domains": [
+    "example.com"
+  ],
+  "confirm_auto_detected_mail": true,
+  "delete_excluded_temp_eml": true,
+  "registered_save_locations": [],
+  "self_email_addresses": [
+    "me@example.com"
+  ],
+  "sender_honorific": "氏",
+  "sender_honorific_rules": {},
+  "duplicate_check_enabled": true,
+  "recent_destination_suggestions": true,
+  "attachment_selective_save": true,
+  "external_link_detection_enabled": true,
+  "auto_show_pending_on_new_eml": true
+}
